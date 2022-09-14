@@ -1,0 +1,7 @@
+User-agent: *
+
+Allow: /
+
+
+
+sitemap: https://setupdesk.github.io/room-setup/sitemapx.xml
